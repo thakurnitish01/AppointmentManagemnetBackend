@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "30gtV75UqtN5oOKkANCJSbL3YUz33IOzmDUctmpIPjY=",
+  "Source": "DotNetAngularApplication",
+  "BasePath": "_content/DotNetAngularApplication",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
